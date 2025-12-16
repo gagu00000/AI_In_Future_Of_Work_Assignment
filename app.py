@@ -2569,5 +2569,6 @@ st.sidebar.markdown("""
 - Framework: Streamlit + Plotly
 
 *Built for AI in Business Course*
+*Built by Gagandeep Singh*
 """)
 
